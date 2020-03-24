@@ -1,4 +1,4 @@
-w = 7  #int(input())
+w = int(input())
 functionList = []
 
 f = open("ring" + str(w) + ".txt", "w")
